@@ -4,7 +4,7 @@
 
 **1.ls**
 
-O comando `ls` no Linux serve para listar arquivo de um diretório
+O comando `ls` no Linux serve para listar arquivo de um diretório.
 <img width="311" height="91" alt="Captura_de_tela_20260422_193123" src="https://github.com/user-attachments/assets/f32c0235-303b-4592-b260-79b7f6ae172f" />
 
 **2.ps**
@@ -35,7 +35,7 @@ O comando `cd` serve para entrar em um diretório.
 
 **7.rmdir**
 
-`rmdir` ele remove diretório, removerá o diretório que você digitar logo após o `rmdir` 
+`rmdir` ele remove diretório, removerá o diretório que você digitar logo após o `rmdir` .
 <img width="330" height="63" alt="Captura_de_tela_20260422_195551" src="https://github.com/user-attachments/assets/6e0b8308-16a6-488f-931a-5b521a94d7a3" />
 
 **8.cp**
@@ -62,7 +62,6 @@ O comando `cd` serve para entrar em um diretório.
 **12.df**
 
 mostra o espaço livre e ocupado de cada partição. `df [opcões]`
-
 <img width="527" height="51" alt="Captura_de_tela_20260422_203318" src="https://github.com/user-attachments/assets/cf0a6d0c-a67c-4feb-92e6-1ea97aa795e8" />
 
 **13.free**
@@ -87,7 +86,7 @@ mede o tempo gasto para executar um processo. `time[comando]`
 
 **17.uname**
 
- mostra o nome e a versão do kernel.
+ mostra o nome e a versão do kernel.`uname [opção]`
  <img width="288" height="41" alt="Captura_de_tela_20260422_205935" src="https://github.com/user-attachments/assets/b027aa03-5da2-48e6-a271-edf93ae707c1" />
 
  **18.reboot**
@@ -103,8 +102,55 @@ mede o tempo gasto para executar um processo. `time[comando]`
  mostra uma sequência de números no terminal.`seq [opções] [primeiro] [incremento] [último]`
  <img width="288" height="102" alt="Captura_de_tela_20260422_210613" src="https://github.com/user-attachments/assets/bfac53fd-4f8e-4cbe-a3bb-b345f3f2fa9a" />
 
- **21
+ **21.killall**
 
+permite "matar" um programa a partir do nome.`killall [opções] [sinal] [processo]`
+
+**22. who**
+
+mostra quem está atualmente conectado ao computador, data da conexão e o terminal.
+`who [opções]`
+<img width="363" height="68" alt="Captura_de_tela_20260423_191721" src="https://github.com/user-attachments/assets/9e19de7b-f5e0-4fa6-a220-d3dcfe37b0dc" />
+
+**23.ping**
+
+permite verificar se o computador está disponivel na rede e mede a latencia do host. `ping [opções] [IP/DNS]`
+<img width="556" height="80" alt="Captura_de_tela_20260423_192106" src="https://github.com/user-attachments/assets/1bfb7e08-67fd-4503-b64d-ff6c20e98916" />
+
+**24.echo**
+
+mostra uma mensagem.`echo [mensagem]`
+<img width="318" height="44" alt="Captura_de_tela_20260423_194144" src="https://github.com/user-attachments/assets/d0fd470d-53d7-40a8-9a84-3a2b88b5fdec" />
+
+**25.grep**
+
+permite buscar texto dentro de um arquivo ou no dispositivo de entrada padrão.`grep [expressão] [arquivo] [opções]`
+<img width="373" height="49" alt="Captura_de_tela_20260423_195900" src="https://github.com/user-attachments/assets/43fbeaf1-8585-4b04-a276-ccbd979b7eb5" />
+
+**26.head**
+
+mostra as linhas iniciais de um arquivo de texto. `head [opções]`
+<img width="298" height="173" alt="Captura_de_tela_20260423_200442" src="https://github.com/user-attachments/assets/b7802f8b-a94a-49e0-815a-73cc5b84cc05" />
+
+
+**27.find**
+
+procura por arquivos/diretório no disco. `find [diretório] [opções/expressão]`
+<img width="394" height="47" alt="Captura_de_tela_20260423_201928" src="https://github.com/user-attachments/assets/84a6c5c2-63ca-4e49-aabb-a51990454100" />
+
+**28.pidof**
+
+retorna o PID do processo.`pidof [opções] [pid]`
+<img width="303" height="47" alt="Captura_de_tela_20260423_202603" src="https://github.com/user-attachments/assets/37418acd-de8f-42fd-b0a8-9e21dac693fa" />
+
+**29.cat**
+
+mostra o conteúdo de um arquivo binário ou texto.`cat [opções] [diretório/arquivo] [diretório1/arquivo1]`
+<img width="282" height="305" alt="Captura_de_tela_20260423_203152" src="https://github.com/user-attachments/assets/dc434311-b733-4cbc-9de5-04155aa20140" />
+
+**30.tac** 
+funciona igual o `cat` porem ao inverso, tac e ao contrário de cat. `tac [opções] [diretório/arquivo] [diretório1/arquivo1]`
+<img width="282" height="305" alt="Captura_de_tela_20260423_203501" src="https://github.com/user-attachments/assets/995147aa-aa4a-4344-b82d-4f3e57cc4b68" />
 
 
 
