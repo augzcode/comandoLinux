@@ -149,6 +149,7 @@ mostra o conteúdo de um arquivo binário ou texto.`cat [opções] [diretório/a
 <img width="282" height="305" alt="Captura_de_tela_20260423_203152" src="https://github.com/user-attachments/assets/dc434311-b733-4cbc-9de5-04155aa20140" />
 
 **30.tac** 
+
 funciona igual o `cat` porem ao inverso, tac e ao contrário de cat. `tac [opções] [diretório/arquivo] [diretório1/arquivo1]`
 <img width="282" height="305" alt="Captura_de_tela_20260423_203501" src="https://github.com/user-attachments/assets/995147aa-aa4a-4344-b82d-4f3e57cc4b68" />
 
