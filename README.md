@@ -159,7 +159,7 @@ funciona igual o `cat` porem ao inverso, tac e ao contrário de cat. `tac [opç�
 #### AUTORES:
 Joao Augusto Cirilo Ferreira da Silva RGM:11261506381
 
-Vitor Siqueira dos Santos RGM:112611
+Vitor Siqueira dos Santos RGM:11261105199
 
 
 
