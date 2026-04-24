@@ -155,3 +155,16 @@ funciona igual o `cat` porem ao inverso, tac e ao contrário de cat. `tac [opç�
 
 
 
+
+#### AUTORES:
+Joao Augusto Cirilo Ferreira da Silva
+
+Vitor Siqueira dos Santos
+
+
+
+<img width="197" height="114" alt="Logo_umc1" src="https://github.com/user-attachments/assets/f96d27ae-6496-4e05-a275-d7cd8fa0188d"/>
+
+
+
+
